@@ -169,6 +169,7 @@ For support and questions:
 - Create an issue on GitHub
 - Check existing documentation
 - Review the code examples in the source
+- Email: ilesanmi3451@gmail.com
 
 ---
 
